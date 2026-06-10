@@ -63,7 +63,8 @@ All tools are designed with **clinical deployment** in mind: GDPR-compliant, on-
 
 | Title | Venue | Year |
 |:------|:------|:----:|
-| Quantized Medical LLMs for Edge Deployment: A Privacy-Preserving RAG System | — | 2025 |
+| [Quantized Medical LLMs for Edge Deployment: A Privacy-Preserving RAG System](https://ieeexplore.ieee.org/abstract/document/11536204) | [IEEE CAI](https://www.ieeesmc.org/cai-2026/) | 2025 |
+| [MARTIALIS: An Open Framework for Knowledge Graphs-based Retrieval Augmented Generation](https://ceur-ws.org/Vol-4182/paper60.pdf) | [SEBD](https://sebd2025.diag.uniroma1.it/) | 2025 |
 
 <details>
 <summary>Abstract</summary>
