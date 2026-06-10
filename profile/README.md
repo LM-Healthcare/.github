@@ -59,10 +59,25 @@ All tools are designed with **clinical deployment** in mind: GDPR-compliant, on-
 
 ---
 
+## Publications
+
+| Title | Venue | Year |
+|:------|:------|:----:|
+| Quantized Medical LLMs for Edge Deployment: A Privacy-Preserving RAG System | — | 2025 |
+
+<details>
+<summary>Abstract</summary>
+
+> Cloud-based medical AI systems raise concerns regarding data privacy and regulatory compliance under GDPR and EU AI Act frameworks. We present a privacy-preserving, edge-deployable clinical decision support system achieving 81.20% accuracy on Italian National Medical Specialization Exams (2020–2024) while operating entirely on local hardware. The system combines a T5-base retriever with a 6-bit quantized Meditron3-8B model (8B parameters), requiring no external APIs and processing queries in 0.45s on consumer GPUs. While proprietary models (GPT-4.1, Claude-4.5) achieve 96% accuracy with 1T+ parameters and cloud dependencies, our system demonstrates that optimized open-source models can deliver clinically relevant performance at two orders of magnitude fewer parameters while preserving complete data sovereignty required for GDPR and EU AI Act compliance.
+
+</details>
+
+---
+
 ## Links
 
 - 🤗 [HuggingFace — Datasets & Demos](https://huggingface.co/Filo-White)
-- 📄 Publications — coming soon
+- 📄 More publications coming soon
 
 ---
 
